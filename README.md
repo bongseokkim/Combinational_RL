@@ -11,13 +11,13 @@ Study of Combinational Problem using Reinforcement learning
 + Decision Transformer: Reinforcement Learning via Sequence Modeling[https://arxiv.org/abs/2106.01345]
 + Pointer Networks[https://arxiv.org/abs/1506.03134]
 + Combinatorial Optimization by Graph Pointer Networks and Hierarchical Reinforcement Learning[https://arxiv.org/abs/1911.04936]
-+ 
+
 
 # Idea of research 
 + combining RL with constraint programming will be good / making rl selecting some hueristic rules or cp
 + anaolgy of problem: TSP/Constrained Sequential Decision-Making Problem/Constrained Shortest Path Problem/Permutation Learning Problem/Constrained Sequence Generation Problem
 + For thousands of rules, consider hybrid approaches (e.g., RL-CP) to ensure feasibility.
-+ 
+  
 # Toy Experiment 
 1. build Pr-network with RL / TSP
 2. make vaild mapping on state,action transiton or action masking
